@@ -1,0 +1,4 @@
+[10-Dec-2019 07:23:09 America/New_York] PHP Fatal error:  Cannot redeclare projectInsert() (previously declared in /home/bdabashon/public_html/bdsoft/soft/account/expense/expenseInsert.php:15) in /home/bdabashon/public_html/bdsoft/soft/account/expense/expenseInsert.php on line 35
+[10-Dec-2019 07:23:26 America/New_York] PHP Fatal error:  Cannot redeclare projectInsert() (previously declared in /home/bdabashon/public_html/bdsoft/soft/account/expense/expenseInsert.php:15) in /home/bdabashon/public_html/bdsoft/soft/account/expense/expenseInsert.php on line 35
+[10-Dec-2019 07:53:26 America/New_York] PHP Notice:  Undefined index: FROM in /home/bdabashon/public_html/bdsoft/soft/account/expense/expenseRetrieve.php on line 25
+[10-Dec-2019 07:53:26 America/New_York] PHP Notice:  Undefined index: TO in /home/bdabashon/public_html/bdsoft/soft/account/expense/expenseRetrieve.php on line 26

@@ -1,0 +1,10 @@
+[17-Dec-2019 11:47:48 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/bdabashon/public_html/bdsoft/login_action.php on line 47
+[17-Dec-2019 11:47:54 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/bdabashon/public_html/bdsoft/login_action.php on line 47
+[17-Dec-2019 11:48:04 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/bdabashon/public_html/bdsoft/login_action.php on line 47
+[17-Dec-2019 11:50:08 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/bdabashon/public_html/bdsoft/login_action.php on line 47
+[17-Dec-2019 11:50:10 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/bdabashon/public_html/bdsoft/login_action.php on line 47
+[17-Dec-2019 11:50:43 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/bdabashon/public_html/bdsoft/login_action.php on line 47
+[17-Dec-2019 11:50:45 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/bdabashon/public_html/bdsoft/login_action.php on line 47
+[17-Dec-2019 11:51:00 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/bdabashon/public_html/bdsoft/login_action.php on line 47
+[17-Dec-2019 11:51:41 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/bdabashon/public_html/bdsoft/login_action.php on line 47
+[17-Dec-2019 11:52:42 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/bdabashon/public_html/bdsoft/login_action.php on line 47
